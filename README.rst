@@ -1,4 +1,4 @@
-www.php-fig.com
+www.php-fg.com
 ===============
 
 This repository holds the public facing website for the group. 
