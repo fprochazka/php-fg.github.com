@@ -29,15 +29,15 @@ how to build your application.
 ## What standards have been passed so far?
 
 <dl>
-	<dt><a target="_blank" href="http://www.php-fg.org/psr/psr-0/">PSR-0</a></dt>
+	<dt><a target="_blank" href="http://www.php-fg.org/prs/prs-0/">PRS-0</a></dt>
 	<dd>Aims to provide a standard file, class and namespace convention to allow plug-and-play code.</dd>
-	<dt><a target="_blank" href="http://www.php-fg.org/psr/psr-1/">PSR-1</a></dt>
+	<dt><a target="_blank" href="http://www.php-fg.org/prs/prs-1/">PRS-1</a></dt>
 	<dd>Aims to ensure a high level of technical interoperability between shared PHP code.</dd>
-	<dt><a target="_blank" href="http://www.php-fg.org/psr/psr-2/">PSR-2</a></dt>
+	<dt><a target="_blank" href="http://www.php-fg.org/prs/prs-2/">PRS-2</a></dt>
 	<dd>Provides a Coding Style Guide for projects looking to standardize their code.</dd>
-	<dt><a target="_blank" href="http://www.php-fg.org/psr/psr-3/">PSR-3</a></dt>
+	<dt><a target="_blank" href="http://www.php-fg.org/prs/prs-3/">PRS-3</a></dt>
 	<dd>Describes a common interface for logging libraries.</dd>
-	<dt><a target="_blank" href="http://www.php-fg.org/psr/psr-4/">PSR-4</a></dt>
+	<dt><a target="_blank" href="http://www.php-fg.org/prs/prs-4/">PRS-4</a></dt>
 	<dd>A more modern take on autoloading reflecting advances in the ecosystem.</dd>
 </dl>
 
@@ -61,7 +61,7 @@ The full list of voting members can be seen [here](https://github.com/php-fg/fg-
 ## Do voting members have to comply to the standards?
 
 No. Becoming a voting member on the PHP-FG in no way forces a member or project
-to implement every - or any - accepted PSRs. Projects have to consider backwards-
+to implement every - or any - accepted PRSs. Projects have to consider backwards-
 compatibility issues when upgrading and make the changes at the right time, so it
 is assumed most projects will eventually adopt, but it is not a requirement.
 
@@ -79,7 +79,7 @@ involve everyone.
 
 ## Should I contact my representative to get involved?
 
-If you think that your project would benefit from implementing PSRs and you want
+If you think that your project would benefit from implementing PRSs and you want
 to have a say in the development of future standards then you certainly should
 get involved.
 
